@@ -1,0 +1,10 @@
+.bg-img1{
+    background-image: url('../../img/mrg3.jpg');
+    background-size: cover;
+}
+.mobile-sr{
+    background-image: url('../../img/mobile-sr.png');
+    background-size: contain;
+    color: #d37575;
+
+}

@@ -1,0 +1,7 @@
+./Sunrise_Events/backend/node_modules/
+Sunrise_Events/backend/.env
+.env
+.env.*
+!.env.example
+dist/
+build/
